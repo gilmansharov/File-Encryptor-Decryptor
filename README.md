@@ -1,6 +1,7 @@
 # File Encryption & Decryption Application
 
 Hello!
+
 The following application encrypts/decrypts your files using XOR encryption algorithm.
 
 ## Usage
