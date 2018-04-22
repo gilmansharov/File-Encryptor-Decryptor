@@ -1,7 +1,10 @@
 # File Encryption & Decryption Application
 
-Hello!
 The following application encrypts/decrypts your files using XOR encryption algorithm.
+
+## Version 1.0 Release
+   You can download the latest release here:
+   <a href="https://github.com/gilmansharov/File-Encryptor-Decryptor/releases/download/1.0/File.Encryptor.Decryptor.exe" target="_blank">Download Link</a>
 
 ## Usage
 
