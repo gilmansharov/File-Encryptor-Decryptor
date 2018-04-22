@@ -4,7 +4,7 @@ The following application encrypts/decrypts your files using XOR encryption algo
 
 ## Version 1.0 Release
    You can download the latest release here:
-   <a href="https://github.com/gilmansharov/File-Encryptor-Decryptor/releases/download/1.0/File.Encryptor.Decryptor.exe" target="_blank">Download Link</a>
+   <a href="https://github.com/gilmansharov/File-Encryptor-Decryptor/releases/download/1.0/FileEncryptorDecryptor.exe" target="_blank">Download Link</a>
 
 ## Usage
 
