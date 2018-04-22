@@ -1,8 +1,8 @@
 # File Encryption & Decryption Application
 
-Hello!
+  Hello!
 
-The following application encrypts/decrypts your files using XOR encryption algorithm.
+  The following application encrypts/decrypts your files using XOR encryption algorithm.
 
 ## Usage
 
